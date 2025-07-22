@@ -74,7 +74,7 @@ Feel free to contribute more basic C programs by submitting a pull request.
 For suggestions or queries:
 
 Raghav Gupta
-📧 Email: raghavgupta805288@gmail.com.com
+📧 Email: raghavgupta805288@gmail.com
 📍 Location: India
 
 
