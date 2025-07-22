@@ -3,7 +3,6 @@
 
 This repository contains a collection of basic C programs for beginners. These programs help build a strong foundation in C programming by covering key concepts such as variables, data types, operators, control structures, functions, loops, and arrays.
 
----
 
 ## 📚 Topics Covered
 
@@ -23,7 +22,6 @@ This repository contains a collection of basic C programs for beginners. These p
 - ✅ Palindrome Check  
 - ✅ Armstrong Number  
 
----
 
 ## 🚀 Getting Started
 
@@ -69,7 +67,7 @@ basic -of-C- language/
 Feel free to contribute more basic C programs by submitting a pull request.
 
 
-📧 Contact
+##📧 Contact
 
 For suggestions or queries:
 
