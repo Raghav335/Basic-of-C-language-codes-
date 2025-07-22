@@ -41,3 +41,11 @@ You need a C compiler like:
 ```bash
 gcc program_name.c -o program_name
 ./program_name
+
+Or in Turbo C:
+
+1. Open the file
+
+
+2. Press Ctrl + F9 to compile and run
+
