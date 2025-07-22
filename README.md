@@ -67,7 +67,7 @@ basic -of-C- language/
 Feel free to contribute more basic C programs by submitting a pull request.
 
 
-##📧 Contact
+📧 Contact
 
 For suggestions or queries:
 
