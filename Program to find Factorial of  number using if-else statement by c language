@@ -1,0 +1,16 @@
+#include<stdio.h>
+int main()
+{
+        int i,n;
+        long long fact=1;
+        printf("enter number");
+        scanf("%d",&n);
+        if(n<=0)
+                printf("the factorial for negative number is not defined");
+        else
+        {        for (i=1; i<=n; i++)
+                        fact=fact*i;
+        }
+        printf("the factorial of %d is %lld",n,fact);
+        return 0;
+}

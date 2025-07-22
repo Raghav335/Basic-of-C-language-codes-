@@ -1,0 +1,15 @@
+#include<stdio.h>
+int main()
+{
+        int i=1,sum=0,n;
+        printf("enter the last value");
+        scanf("%d",&n);
+        do {
+                if (i%2==0)
+                        sum=sum+i;
+                i++;
+        }
+        while(i<=n);
+        printf("the sum of even number is %d",sum);
+                return 0;
+}

@@ -1,0 +1,39 @@
+#include<stdio.h>
+int main()
+{
+        char op;
+        float a,b,result;
+        printf("enter your choice?+,-,*,/");
+        scanf(" %c",&op);
+        printf("enter two numbers");
+        scanf("%f %f",&a, &b);
+        switch(op)
+        {
+        case'+':
+                result=a+b;
+                printf("the sum of the given two number is %.2f\n",result);
+                break;
+        case '-':
+                result=a-b;
+                printf("the difference of two numbers is %.2f\n",result);
+                break;
+        case'*':
+                        result=a*b;
+                printf("the product of two number is %.2f\n",result);
+                break;
+        case'/':
+                if (b!=0)
+                {
+                                    result=a/b;
+                        printf("the division of two number is %.2f\n",result);
+                }
+                else
+                {
+                        printf("division cant be performed by 0");
+                }
+                break;
+                default:
+                printf("wrong operator\n");
+        }
+        return 0;
+}

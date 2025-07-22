@@ -1,0 +1,20 @@
+#include<stdio.h>
+#include<string.h>
+int main() {
+        char mood[15];
+        printf("how are you feeling today? happy/ sad/ tired");
+        scanf("%s",mood);
+        if (strcmp(mood,"happy")==0)
+        {        printf("yay,keep smiling");
+        }
+        else if (strcmp(mood,"sad")==0)
+        {        printf("feeling sad to hear this, sending hugs");
+        }
+        else if (strcmp(mood,"tired")==0)
+        {        printf("take a break and rest");
+        }
+        else
+        {        printf("no matter how you feel you are doing great");
+        }
+        return 0;
+}
